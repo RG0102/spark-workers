@@ -12,7 +12,7 @@
       "deviceName": "slave1",
       "initializeParams": {
         "diskSizeGb": "10",
-        "diskType": "projects/rare-phoenix-399709/zones/us-west4-b/diskTypes/pd-balanced",
+        "diskType": "projects/rare-phoenix-399709/zones/europe-west1-b/diskTypes/pd-balanced",
         "labels": {},
         "sourceImage": "projects/debian-cloud/global/images/debian-11-bullseye-v20221102"
       },
@@ -77,5 +77,5 @@
   "tags": {
     "items": []
   },
-  "zone": "projects/spark-371009/zones/europe-west1-b"
+  "zone": "projects/rare-phoenix-399709/zones/europe-west1-b"
 }
