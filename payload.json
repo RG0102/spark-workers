@@ -44,7 +44,7 @@
         }
       ],
       "stackType": "IPV4_ONLY",
-      "subnetwork": "projects/rare-phoenix-399709/regions/europe-west1/subnetworks/default"
+      "subnetwork": "projects/rare-phoenix-399709/regions/europe-west1-b/subnetworks/default"
     }
   ],
   "reservationAffinity": {
